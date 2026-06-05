@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - v1.0.7
     paths:
       - "pyproject.toml"
 
