@@ -9,7 +9,7 @@ license = {file = "LICENSE"}
 dependencies = ["requests", "pillow"]
 
 [project.urls]
-Repository = "https://github.com/ucloud/comfyui-compshare"
+Repository = "https://github.com/yinjiajiu/comfyui-compshare/"
 
 [tool.comfy]
 PublisherId = "yinjiajiu"
