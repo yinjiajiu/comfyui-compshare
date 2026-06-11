@@ -6,3 +6,4 @@ py/modelverse_api/requests/__pycache__
 /venv
 .idea/
 secrets.json
+pyproject.toml.local
